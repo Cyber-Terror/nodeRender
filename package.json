@@ -1,8 +1,17 @@
-{
+{ 
+  "name": "21",
+  "version": "1.0.0",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "express-handlebars": "^7.1.2",
     "method-override": "^3.0.0"
-  }
+  },
+  "engines": {
+    "node": "17.4.0"
+  },
+  "main": "21-01.js",
+  "author": "dav",
+  "license":"ISC",
+  "description": "sdjhf"
 }
